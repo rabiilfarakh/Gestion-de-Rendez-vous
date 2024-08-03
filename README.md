@@ -41,4 +41,9 @@ L'application de gestion de rendez-vous est une plateforme web permettant aux pr
 - JWT (JSON Web Token)
 - MySQL Driver (pour la connexion à la base de données MySQL)
 
+## Diagrammes
+
+### Class
+![image](https://github.com/user-attachments/assets/342ba9df-4091-4d65-9ba5-b2ee3297d2ae)
+
 
